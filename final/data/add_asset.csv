@@ -1,0 +1,10 @@
+action,weekday,month,day,year,hour,score
+add_asset,3,2,4,2016,11,20
+add_asset,6,2,7,2016,18,20
+add_asset,2,2,10,2016,21,20
+add_asset,2,3,2,2016,4,20
+add_asset,2,3,9,2016,12,20
+add_asset,4,3,11,2016,15,20
+add_asset,0,3,28,2016,17,20
+add_asset,1,4,26,2016,11,20
+add_asset,1,4,26,2016,11,20
